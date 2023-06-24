@@ -1,5 +1,4 @@
 # Hi, I'm NaveenMalave! 👋
-
 ![Naveen Malave GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenMalave&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMalave"/>
 
