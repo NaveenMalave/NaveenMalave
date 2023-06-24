@@ -33,7 +33,6 @@ I'm a full stack developer...
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 # My stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaveenMalave&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaveenMalave&theme=dark&hide_border=true&mode=weekly)](https://github.com/NaveenMalave)
 
