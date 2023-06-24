@@ -38,11 +38,11 @@ I'm a full stack developer...
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMalave"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/NaveenMalave)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/NaveenMalave)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Naveen Malave GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenMalave&show_icons=true&theme=radical)
 
 
 
