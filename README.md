@@ -2,6 +2,8 @@
 
 ## 🚀 About Me
 I'm a full stack developer...
+Reach me out!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navanishwara-rao-malave-4ab6ba247)
 
 👩‍💻 I'm currently working on...
 
@@ -21,5 +23,5 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navanishwara-rao-malave-4ab6ba247)
+
+
