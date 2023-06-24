@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 I'm a full stack developer...
-Reach me out!
+### Reach me out!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navanishwara-rao-malave-4ab6ba247)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNaveenMalave&label=Email&countColor=%23263759)
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
