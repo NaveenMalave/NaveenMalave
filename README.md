@@ -36,4 +36,5 @@ I'm a full stack developer...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaveenMalave&theme=dark&hide_border=true&mode=weekly)](https://github.com/NaveenMalave)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
