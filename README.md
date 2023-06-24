@@ -38,10 +38,6 @@ I'm a full stack developer...
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMalave"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMalave&layout=compact)](https://github.com/NaveenMalave/NaveenMalave/blob/main/README.md)
-
-[![Naveen Malave's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NaveenMalave)](https://github.com/NaveenMalave/NaveenMalave/blob/main/README.md)
-
 ![Naveen Malave GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenMalave&show_icons=true&theme=radical)
 
 
