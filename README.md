@@ -32,13 +32,13 @@ I'm a full stack developer...
 [![linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
 
-![Naveen Malave GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenMalave&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMalave"/>
+<!--- ![Naveen Malave GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenMalave&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMalave"/> 
 
 # My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaveenMalave&theme=dark&hide_border=true&mode=weekly)](https://github.com/NaveenMalave)
-
+--->
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=NaveenMalave&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
